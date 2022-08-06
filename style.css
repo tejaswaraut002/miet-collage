@@ -1,0 +1,23 @@
+body{
+    background-color: blueviolet;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    display: block;
+
+}
+h2{
+    text-align: center;
+    font-size: 70px;
+    
+}
+.banner{
+    background-color: bisque;
+    padding-bottom: 2px;
+}
+h4{
+    text-align: center;
+    font-size: 50px;
+}
